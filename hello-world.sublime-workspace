@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Con",
+				"Context"
+			],
+			[
+				"con",
+				"Context"
+			],
+			[
+				"fun",
+				"funcion"
+			],
+			[
+				"se",
+				"setIdioma"
+			],
+			[
+				"Conte",
+				"context"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"ren",
+				"renderLi"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"i",
+				"idioma"
+			],
+			[
+				"onc",
+				"onClick"
+			],
+			[
+				"Bo",
+				"BotonesHooks"
+			],
+			[
+				"han",
+				"handleClickUs"
+			],
+			[
+				"ca",
+				"cambiarIdiomaEs"
+			],
+			[
+				"A",
+				"AutoComplete"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"ne",
+				"NuevoDato"
+			],
+			[
+				"re",
+				"registro"
+			],
+			[
+				"Fr",
+				"FormServices"
+			],
+			[
+				"compo",
+				"Component"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"o",
+				"objeto"
+			],
+			[
+				"nm",
+				"nombre"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"for",
+				"FormUI"
+			],
+			[
+				"Fo",
+				"FormUI"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"wo",
+				"workflow"
+			],
+			[
+				"sou",
+				"_source"
+			],
+			[
+				"fecha",
+				"fechaIni"
+			],
+			[
+				"bienuso",
+				"bienUso"
+			],
+			[
+				"bien",
+				"bienUso"
+			],
+			[
+				"vida",
+				"vidaUtil"
+			],
+			[
+				"bie",
+				"bienUso"
+			],
+			[
+				"perdio",
+				"periodo_ant"
+			],
+			[
+				"depreciacion",
+				"depreciacionAcumulada"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"retu",
+				"returnRow"
+			],
+			[
+				"data",
+				"dataToRender"
+			],
+			[
+				"bienU",
+				"bienUsoInstance"
+			],
+			[
+				"reque",
+				"request-"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"Us",
+				"UsuariosController"
+			],
+			[
+				"icon",
+				"icon-12-1"
+			],
+			[
+				"lis",
+				"listarPrensa"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"crea",
+				"createTitulo"
+			],
+			[
+				"layer",
+				"layer_"
+			],
+			[
+				"obras",
+				"obras_det"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"lista",
+				"listarObrasIndex"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"modal",
+				"modal-close"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"footer",
+				"footer-icons"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"conte",
+				"content-grids"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"POST",
+				"_POST"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"au",
+				"aux_"
+			],
+			[
+				"compro",
+				"compromiso"
+			],
+			[
+				"get_re",
+				"get_resource_type"
+			],
+			[
+				"numero",
+				"numero_de_filas"
+			],
+			[
+				"my",
+				"mysql1"
+			],
+			[
+				"cone",
+				"conectar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/App.js",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Global/btnIdiomas.js",
+			"settings":
+			{
+				"buffer_size": 510,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Home/index.js",
+			"settings":
+			{
+				"buffer_size": 763,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Global/Header.js",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Context.js",
+			"settings":
+			{
+				"buffer_size": 368,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import React from \"react\";"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"blade fo",
+				"Snippet: blade-foreach"
+			],
+			[
+				"Form",
+				"File: Copy Path From Project"
+			],
+			[
+				"Snippet: blade-",
+				"Snippet: blade-for"
+			],
+			[
+				"Snippet: blade-fo",
+				"Snippet: blade-foreach"
+			],
+			[
+				"bla",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment - HTML section footer"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/reactjs/hello-world",
+		"/var/www/html/reactjs/hello-world/src",
+		"/var/www/html/reactjs/hello-world/src/components"
+	],
+	"file_history":
+	[
+		"/var/www/html/reactjs/hello-world/package.json",
+		"/var/www/html/reactjs/hello-world/src/routes.js",
+		"/var/www/html/reactjs/hello-world/src/index.js",
+		"/var/www/html/reactjs/hello-world/src/components/App.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Content.js",
+		"/var/www/html/reactjs/hello-world/src/services/Idiomas.js",
+		"/var/www/html/reactjs/hello-world/src/components/Home/index.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Header.js",
+		"/var/www/html/reactjs/hello-world/src/data/menu.js",
+		"/var/www/html/reactjs/hello-world/src/services/Botones.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/btnIdiomas.js",
+		"/var/www/html/reactjs/hello-world/src/App.test.js",
+		"/var/www/html/reactjs/hello-world/src/services/Services.js",
+		"/var/www/html/reactjs/hello-world/src/services/Autocomplete.css",
+		"/var/www/html/reactjs/hello-world/src/services/AutoComplete.js",
+		"/var/www/html/reactjs/hello-world/src/services/FormServices.js",
+		"/var/www/html/reactjs/hello-world/src/services/Calendar.js",
+		"/var/www/html/reactjs/hello-world/src/services/BotonesHooks.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/css/Autocomplete.css",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Scroll.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Count.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Content2.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/Footer.js",
+		"/var/www/html/reactjs/hello-world/src/index.css",
+		"/var/www/html/reactjs/hello-world/node_modules/react-autosuggest/dist/theme.js",
+		"/var/www/html/reactjs/hello-world/src/components/Page404/index.js",
+		"/var/www/html/reactjs/hello-world/src/components/Global/css/Footer.css",
+		"/var/www/html/reactjs/hello-world/src/components/Global/css/App.css",
+		"/var/www/html/reactjs/hello-world/src/components/Global/css/Header.css",
+		"/var/www/html/reactjs/hello-world/node_modules/react-autosuggest/dist/standalone/autosuggest.min.js",
+		"/var/www/html/reactjs/hello-world/src/services/notas.txt",
+		"/var/www/html/laravel/zerodahero/config/app.php",
+		"/var/www/html/laravel/zerodahero/.env",
+		"/var/www/html/laravel/training/app/Http/Controllers/TasksController.php",
+		"/var/www/html/laravel/training/routes/web.php",
+		"/var/www/html/laravel/training/routes/console.php",
+		"/var/www/html/laravel/training/routes/channels.php",
+		"/var/www/html/laravel/training/routes/api.php",
+		"/var/www/html/laravel/sportski-klub/routes/web.php",
+		"/home/luis/Documentos/workspace/xre/grails-app/conf/ApplicationResources.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/conf/BootStrap.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/conf/BuildConfig.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/conf/Config.groovy",
+		"/home/luis/Documentos/workspace/xre/test/unit/xre/bienuso/MovBUControllerSpec.groovy",
+		"/home/luis/Documentos/workspace/xre/web-app/js/utilSR.js",
+		"/home/luis/Documentos/workspace/xre/web-app/js/utilSolicitudBC.js",
+		"/home/luis/Documentos/workspace/xre/web-app/js/util2.js",
+		"/home/luis/Documentos/workspace/xre/web-app/js/util.js",
+		"/home/luis/Documentos/workspace/xre/grails-app/domain/xre/bienuso/Prueba.groovy",
+		"/home/luis/Documentos/workspace/xre/test/unit/xre/bienuso/PruebaSpec.groovy",
+		"/home/luis/Documentos/workspace/xre/scripts/update_pass",
+		"/home/luis/Documentos/workspace/xre/script/util.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/_form.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/controllers/xre/ReportesController.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/controllers/xre/bienuso/BienUsoController.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/reportes/fc11.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/_codigoQR.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/controllers/xre/k2/ExpedienteController.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/expediente/_form_entrantes.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/expediente/create.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/expediente/_form.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/controllers/xre/ConsultasController.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/services/xre/arquitectura.sublime-project",
+		"/home/luis/Documentos/workspace/xre/grails-app/services/xre/SinarhService.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/taglib/xre/BootstrapTagLib.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/_form_traspaso_interno.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/_movimientos.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/show.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/services/xre/UtilsService.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/_multiSelect.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienUso/edit.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienConsumo/_form.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienConsumo/edit.gsp",
+		"/home/luis/Documentos/workspace/xre/grails-app/views/bienConsumo/_entregasBC.gsp",
+		"/home/luis/Documentos/workspace/xre/target/output.txt",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2017/test_revaluo.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/test.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/test_revaluo.groovy",
+		"/home/luis/Descargas/prueba.xml",
+		"/home/luis/Documentos/asdf",
+		"/home/luis/Documentos/algo",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2017/test.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2017/revaluo_adquiridos_01_07_2017_al_31_07_2017.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/revaluo_adquiridos_01_07_2018_al_31_12_2018_no_se_deprecia.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/calculos_locos",
+		"/home/luis/Documentos/workspace/xre/grails-app/controllers/xre/k2/ExpedienteApiController.groovy",
+		"/home/luis/Documentos/workspace/xre/grails-app/services/xre/k2/ExpedienteService.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/revaluo_anterior.xls",
+		"/tmp/fz3temp-2/index.html",
+		"/tmp/fz3temp-2/mineria 2.html",
+		"/tmp/fz3temp-2/nosotros.html",
+		"/tmp/fz3temp-2/obras.html",
+		"/tmp/fz3temp-2/prefabricacion 2.html",
+		"/tmp/fz3temp-2/servicios 2.html",
+		"/tmp/fz3temp-2/index 2.html",
+		"/tmp/fz3temp-2/hormigon 2.html",
+		"/tmp/fz3temp-2/concreto 2.html",
+		"/tmp/fz3temp-2/contactos 2.html",
+		"/tmp/fz3temp-2/concreto.html",
+		"/tmp/fz3temp-2/contactos.html",
+		"/tmp/fz3temp-2/hormigon.html",
+		"/tmp/fz3temp-2/mineria.html",
+		"/tmp/fz3temp-2/obrasconten.html",
+		"/tmp/fz3temp-2/prefabricacion.html",
+		"/tmp/fz3temp-2/servicios.html",
+		"/tmp/fz3temp-2/enviarCorreo.php",
+		"/tmp/fz3temp-2/listarObrasIndex 2.php",
+		"/tmp/fz3temp-2/listarObrasIndex.php",
+		"/tmp/fz3temp-2/obra.class.php",
+		"/tmp/fz3temp-2/mysql.class 2.php",
+		"/tmp/fz3temp-2/mysql.class.php",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/informefc07.sql",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/informes2018",
+		"/tmp/fz3temp-3/mysql.class.php",
+		"/home/luis/Documentos/listarObrasIndex.php",
+		"/home/luis/Documentos/mysql.class.php",
+		"/var/www/html/edb/es/funciones/listarObrasIndex.php",
+		"/var/www/html/edb/test.php",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/calculos_varios.sql",
+		"/home/luis/Documentos/workspace/xre/rev",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/2018_fc07_revaluo_anterior_incluido.xls",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/2018_fc07_revaluo_anterior_incluido.csv",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/2018/.~lock.2018_fc07_revaluo_anterior_incluido.xls#",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/informe_rosarina.sql",
+		"/home/luis/Documentos/workspace/xre/grails-app/domain/xre/bienuso/ConfigPatrimonio.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/oscar_script",
+		"/home/luis/Documentos/workspace/xre/grails-app/domain/xre/bienuso/Revaluo.groovy",
+		"/home/luis/Documentos/workspace/xre/apuntes/patrimonio/inventario_bajas.sql"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Jessie:",
+			"James:",
+			"James",
+			"onChange",
+			"onchange",
+			"getSuggestions",
+			"nombre",
+			"key",
+			"nombre",
+			"noombre",
+			"handleOnchange",
+			"onChange",
+			"create",
+			"text",
+			"input",
+			"text",
+			"type",
+			"text",
+			"value",
+			"text",
+			"input",
+			"react-autosuggest",
+			"react-autosuggestreact-autosuggest",
+			"getSuggestionValue",
+			"suggestions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/var/www/html/reactjs/hello-world"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/Global/btnIdiomas.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 31.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Home/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/Global/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Context.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import React from \"react\";",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/laravel/core-ui-reactjs/coreui.sublime-workspace"
+			],
+			[
+				"js",
+				"/var/www/html/laravel/zerodahero/zerodahero.js"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 856.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

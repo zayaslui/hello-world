@@ -1,0 +1,8 @@
+si uso la propiedad value dentro del input 
+	* Se puede cambiar el value del input
+	* Se puede hacer un setState y cambiar el value del input
+	* Error en tratar de borrar todo el contenido, vuelve a su estado inicial
+
+si uso defaultValue dentro del input 
+	* Se puede borrar todo el contenido del value
+	* No modifica su valor cuando hago un setState 
