@@ -56,7 +56,7 @@ class FormServices extends Component{
 				return state;
 			});
 	    	// console.log(this.state)
-		},10000)
+		},1000)
     }
 	handleOnchange(e){	
 		this.setState({

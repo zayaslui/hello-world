@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { Consumer } from "../Context";
+import { Consumer } from "../components/Context";
 
 export default class Home extends Component{
 

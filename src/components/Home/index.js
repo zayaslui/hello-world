@@ -7,8 +7,8 @@ import React, { Component } from 'react';
 // import FormServices from '../../services/FormServices';
 // import Idiomas from '../../services/Idiomas';
 // import Scroll from '../Global/Scroll';
-
-import Traduccion from './Traduccion';
+// import Traduccion from '../../services/Traduccion';
+import Tabs from '../../services/Tabs';
 
 class Home extends Component{
 
@@ -16,7 +16,7 @@ class Home extends Component{
 		return(
 			<div className='Home'>
 				<h1>Home Page</h1>
-				<Traduccion />
+				<Tabs />
 			</div>
 		);
 	}
